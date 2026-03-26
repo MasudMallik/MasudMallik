@@ -1,5 +1,5 @@
 # 👨‍💻 Masud Mallik 
-### Python Developer | AI & ML Enthusiast
+### Python Developer | AI & ML Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=500&lines=Python+Developer;AI+%2F+ML+Engineer;Continuous+Learner" alt="Typing SVG" />
